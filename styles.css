@@ -1,0 +1,288 @@
+body{
+  padding: 24px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&family=Shadows+Into+Light&family=The+Girl+Next+Door&display=swap');
+.Title{
+  position: absolute;
+  top: 150px;
+  left: 650px;
+  border: 1px solid transparent;
+  padding: 1px;
+  display: inline-block;  
+  background-image: url(SchnörkelPostit.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 540px;
+  height: 500px;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  font-family: 'Shadows Into Light', cursive;
+}
+.Title span {
+  position: absolute;
+  top: 33%;
+  left: 25%;
+  text-align: center; 
+  max-width: 60%;
+  max-height: 60%;
+  line-height: 1.2;
+  white-space: normal ;
+  word-wrap: break-word;
+  padding: 5px;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(Pinwand.png);
+  background-size: cover;
+}
+.Begrüssung{
+  position: absolute;
+  top: 150px;
+  left: -250px;
+  border: 15px solid transparent;
+  padding: 1px;
+  display: inline-block;
+  background-image: url(Postit1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  font-family: "Coming Soon", cursive;
+}
+
+.Begrüssung span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-9deg); 
+  text-align: center; 
+  max-width: 80%;
+  max-height: 80%;
+  line-height: 1.2;
+  white-space: normal ;
+  word-wrap: break-word;
+  padding: 5px;
+  box-sizing: border-box;
+}
+  .Allgemein {
+    position: absolute;
+  top: 500px;
+  left: -550px;
+      border: 1px solid transparent;
+      padding: 1px;
+      display: inline-block;  
+      background-image: url(Postit2.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 350px;
+      height: 350px;
+      margin: auto;
+      position: relative;
+      overflow: hidden;
+      font-family: "Coming Soon", cursive;
+}
+.Allgemein span{
+  position: absolute;
+  top: 15%;
+  left: 5%;
+  text-align: center; 
+  max-width: 70%;
+  max-height: 70%;
+  line-height: 1.2;
+  white-space: normal ;
+  word-wrap: break-word;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.Freizeit { 
+  position: absolute;
+  top: 40px;
+  left: 340px;
+  border: 15px solid transparent;
+  padding: 1px;
+  display: inline-block;
+  background-image: url(Postit1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 350px;
+  height: 350px;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  font-family: "Coming Soon", cursive;
+}
+.Freizeit span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-9deg); 
+  text-align: center; 
+  max-width: 80%;
+  max-height: 80%;
+  line-height: 1.2;
+  white-space: normal ;
+  word-wrap: break-word;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.Wieso_hier {
+  position: absolute;
+  top: 200px;
+  left: 250px;
+  border: 1px solid transparent;
+  padding: 1px;
+  display: inline-block;  
+  background-image: url(Postit4.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 650px;
+  height: 650px;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  font-family: "Coming Soon", cursive;
+}
+.Wieso_hier span {
+  position: absolute;
+  top: 20%;
+  left: 15%;
+  text-align: center; 
+  max-width: 60%;
+  max-height: 60%;
+  line-height: 1.2;
+  white-space: normal ;
+  word-wrap: break-word;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.Stärken { 
+   position: absolute;
+  top: 250px;
+  left: 480px;
+  border: 1px solid transparent;
+  padding: 1px;
+  display: inline-block;  
+  background-image: url(Postit2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 360px;
+  height: 360px;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  font-family: "Coming Soon", cursive;
+}
+.Stärken span {
+  position: absolute;
+  top: 15%;
+  left: 5%;
+  text-align: center; 
+  max-width: 70%;
+  max-height: 70%;
+  line-height: 1.2;
+  white-space: normal ;
+  word-wrap: break-word;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.ICT-Scouts {
+  position: absolute;
+  top: 190px;
+  left: 190px;
+  border: 15px solid transparent;
+  padding: 1px;
+  display: inline-block;
+  background-image: url(Postit3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  font-family: "Coming Soon", cursive;
+}
+.ICT-Scouts span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(9deg); 
+  text-align: center; 
+  max-width: 80%;
+  max-height: 80%;
+  line-height: 1.2;
+  white-space: normal ;
+  word-wrap: break-word;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.Beilage {
+  position: absolute;
+  top: 370px;
+  left: -550px;
+  border: 1px solid transparent;
+  padding: 1px;
+  display: inline-block;  
+  background-image: url(Postit2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 350px;
+  height: 350px;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  font-family: "Coming Soon", cursive;
+}
+.Beilage span {
+  position: absolute;
+  top: 15%;
+  left: 5%;
+  text-align: center; 
+  max-width: 70%;
+  max-height: 70%;
+  line-height: 1.2;
+  white-space: normal ;
+  word-wrap: break-word;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.Ende {
+  position: absolute;
+  top: -30px;
+  left: 900px;
+  border: 1px solid transparent;
+  padding: 1px;
+  display: inline-block;  
+  background-image: url(Postit4.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 450px;
+  height: 450px;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  font-family: "Coming Soon", cursive;
+}
+.Ende span {
+  position: absolute;
+  top: 20%;
+  left: 15%;
+  text-align: center; 
+  max-width: 60%;
+  max-height: 60%;
+  line-height: 1.2;
+  white-space: normal ;
+  word-wrap: break-word;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+
+
+
