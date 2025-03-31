@@ -163,8 +163,8 @@ body {
 
 .Allgemein {
   position: absolute;
-  top: 100px;
-  left: 190px;
+  top: 200px;
+  left: 100px;
   border: 15px solid transparent;
   padding: 1px;
   display: inline-block;
