@@ -68,36 +68,6 @@ body {
   padding: 5px;
   box-sizing: border-box;
 }
-  .Allgemein {
-    position: absolute;
-  top: 500px;
-  left: -550px;
-      border: 1px solid transparent;
-      padding: 1px;
-      display: inline-block;  
-      background-image: url(Postit2.png);
-      background-repeat: no-repeat;
-      background-size: cover;
-      width: 350px;
-      height: 350px;
-      margin: auto;
-      position: relative;
-      overflow: hidden;
-      font-family: "Coming Soon", cursive;
-}
-.Allgemein span{
-  position: absolute;
-  top: 15%;
-  left: 5%;
-  text-align: center; 
-  max-width: 70%;
-  max-height: 70%;
-  line-height: 1.2;
-  white-space: normal ;
-  word-wrap: break-word;
-  padding: 5px;
-  box-sizing: border-box;
-}
 .Freizeit { 
   position: absolute;
   top: 40px;
@@ -191,7 +161,7 @@ body {
   box-sizing: border-box;
 }
 
-.ICT-Scouts {
+.Allgemein {
   position: absolute;
   top: 190px;
   left: 190px;
@@ -208,7 +178,7 @@ body {
   overflow: hidden;
   font-family: "Coming Soon", cursive;
 }
-.ICT-Scouts span {
+.Allgemein span {
   position: absolute;
   top: 50%;
   left: 50%;
